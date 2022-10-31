@@ -148,17 +148,15 @@
 ### 前端基石💪
 
 - [ECMASciprt6对象解构](/前端/ECMASciprt6对象解构.md)
-
 - [EMCAScrpit6异步请求操作](/前端/EMCAScrpit6异步请求操作.md)
-
 - [JavaScript动态修改样式](/前端/JavaScript动态修改样式.md)
-
 - [javaScript对象概念](/前端/javaScript对象概念.md)
-
 - [javaScript属性节点](/前端/javaScript属性节点.md)
-
 - [javaScript特性](/前端/javaScript特性.md)
-
 - [JavaScript的DOM操作](/前端/JavaScript的DOM操作.md)
-
 - [javaScrpit的事件](/前端/javaScrpit的事件.md)
+
+### ~软考相关📚
+
+- [软件工程师必备知识点](/软考相关/软考知识点.md)
+
